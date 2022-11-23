@@ -2,8 +2,8 @@
 
 [link to abstract](https://docs.google.com/document/d/15IOmDaq0cK8ZZkZCBR0z3kg1byAZN7atCsbR4aDx_R4/edit?usp=sharing)
 
-[overview docs]("https://docs.google.com/document/d/1TV_Fd-yfZVoBUZYmI2jRB9LXaaX6w4TlTiygA_1hc8w/edit?usp=sharing")
+[overview docs](https://docs.google.com/document/d/1TV_Fd-yfZVoBUZYmI2jRB9LXaaX6w4TlTiygA_1hc8w/edit?usp=sharing)
 
-[github code]("https://github.com/ArudhranPK/DB-billing-app.git")
+[github code](https://github.com/ArudhranPK/DB-billing-app.git)
 
-[seminar ppt link]("https://docs.google.com/presentation/d/1d4zjOffI4kkDtby3EdAqXCrz6xU1QolU/edit?usp=sharing&ouid=107720254117870229411&rtpof=true&sd=true")
+[seminar ppt link](https://docs.google.com/presentation/d/1d4zjOffI4kkDtby3EdAqXCrz6xU1QolU/edit?usp=sharing&ouid=107720254117870229411&rtpof=true&sd=true)
