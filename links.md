@@ -7,3 +7,5 @@
 [github code](https://github.com/ArudhranPK/DB-billing-app.git)
 
 [seminar ppt link](https://docs.google.com/presentation/d/1d4zjOffI4kkDtby3EdAqXCrz6xU1QolU/edit?usp=sharing&ouid=107720254117870229411&rtpof=true&sd=true)
+
+[mack detection](https://teachablemachine.withgoogle.com/models/r2yv466NU/)
